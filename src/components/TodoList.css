@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(148, 148, 148);
+}
+.container {
+    margin: auto;
+    margin-top: 50px;
+    max-width: 600px;
+    padding: 50px;
+    background-color: rgb(224, 224, 224);
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+footer {
+    margin: auto;
+    margin-top: 50px;
+    max-width: 900px;
+    padding: 50px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.checked {
+    text-decoration: line-through;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 30px;
+    width: 100%;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.card {
+    box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.2);
+   
+}
+
+img {
+    max-width: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.addButton {
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    border: none;
+    background-color: skyblue;
+    color: white;
+    border-radius: 25px;
+}
+.Modal {
+    width: 100vw;
+    height: 100vh;background-color: rgba(0, 0, 0, 0.6);
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hide {
+    display: none;
+}
+.cardModal {
+    padding: 20px;
+    background-color: white;
+}
