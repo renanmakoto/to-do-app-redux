@@ -3,7 +3,7 @@ The same "To Do" app I developed previously, however, this time, I used Redux to
 
 Command lines used:
 
-- npx create react-app to-do-app-redux
+- npx create-react-app to-do-app-redux
 
 - npm install redux
 
