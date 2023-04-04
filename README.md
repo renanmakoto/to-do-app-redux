@@ -20,7 +20,7 @@ TECHNOLOGIES USED:
 <a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/64px-React-icon.svg.png" /></a>
 <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="width: 64px; height: 64px;" /></a>
 
-<a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" style="width: 54px; height: 44px;" /></a>
+<a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" style="width: 54px; height: 48px;" /></a>
 
 
 You may click on the link below to see how it works:
