@@ -22,8 +22,6 @@ TECHNOLOGIES USED:
 <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="width: 64px; height: 64px;" /></a>
 
 
-
-
 You may click on the link below to see how it works:
 
 https://renanmakoto-to-do-app-redux.netlify.app/
