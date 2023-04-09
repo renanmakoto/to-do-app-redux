@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">To Do List</h1>
 
 <p align="center">The same "To Do" app I developed previously, however, this time, I used Redux to make it simpler and cleaner, which means it could be better readable.</p>
@@ -11,6 +8,7 @@
 
 <p align="center">https://renanmakoto-reactjs-memory-game.netlify.app/</p>
 
+<div align="center">
 
 TECHNOLOGIES USED:
 
@@ -34,5 +32,7 @@ $ npx create-react-app to-do-app-redux
 $ npm install redux
 
 $ npm install react-redux
+
+</div>
 
 <p align="center">With ❤ by <img src=https://img.shields.io/badge/-dotExtension-black /> <p/>
