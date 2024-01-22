@@ -6,7 +6,7 @@
 
 <p align="center">You may access the application by clicking on the link below:</p>
 
-<p align="center">https://renanmakoto-reactjs-memory-game.netlify.app/</p>
+<p align="center">https://renanmakoto-to-do-app-redux.netlify.app/</p>
 
 <div align="center">
 
@@ -18,11 +18,6 @@ TECHNOLOGIES USED:
 <a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/64px-React-icon.svg.png" /></a>
 <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" style="width: 64px; height: 58px;" /></a>
 <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="width: 64px; height: 64px;" /></a>
-
-
-You may click on the link below to see how it works:
-
-https://renanmakoto-to-do-app-redux.netlify.app/
 
 
 Node modules used are listed below:
